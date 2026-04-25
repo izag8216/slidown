@@ -1,5 +1,3 @@
-[![slidown header](docs/header.svg)](https://github.com/izag8216/slidown)
-
 ![banner](https://capsule-render.vercel.app/api?type=wave&height=200&section=header&text=slidown&fontSize=60&fontAlignY=42&desc=Markdown%20to%20HTML%20Slides&descAlignY=62&descSize=20&color=0:0f172a,100:1e1b4b&fontColor=f8fafc)
 
 <div align="center">
